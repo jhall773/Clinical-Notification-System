@@ -1,5 +1,5 @@
 # Clinical-Notification-System
-This is a notification system for front desk professionals in one area of a diabetes or clinic to broadcast short messages to all other professionals in various other locations (on the same Wi-Fi Network).
+This is a notification system for front desk professionals in one area of a diabetes clinic to broadcast short messages to all other professionals in various other locations (on the same Wi-Fi Network).
 
 ## Here are the Steps Needed to Run the Application
 1. Please be sure that the server computer and client computer(s) are all connected to the same Wi-Fi network.
